@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Потому, что голод не тётка ...
+title: Потому, что голод не тётка Аня...
 image: /img/triumf.jpg
 heading: Утоли свой пыл в Русском Бунте!
 subheading: Утоли свой пыл в Русском Бунте!
